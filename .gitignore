@@ -1,0 +1,6 @@
+venv/
+Demo/.github/
+Demo/.build/
+Demo/scripts/__pycache__/
+Demo/scripts/__init__.py
+Demo/tests/
